@@ -3,7 +3,13 @@
     padding: 0;
     margin: 0;
 }
+  h1{
+    text-align:center;
+    margin-top:20px;
+    font-size:60px;
+    font-family: 'Comic Sans MS';   
 
+}
 #game{
     width: 400px;
     height: 500px;
